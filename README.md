@@ -138,8 +138,19 @@ p.note { display: none; }
 <a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
 
+<br><br><br>
 
+<h2><span class="yellow">動画です。３、４本目はAppleLineのほぼ全域走行動画！</span></h2>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sgq-xMSNCbo?si=XXyADHd2-dXv7s1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r2r66Sdn9J4?si=yeClYc32zpkKcx0p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwjTc3mG1AQ?si=5I3r66FCx5ywaI6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9kRn1tfFwx0?si=YTwMgYgPV-7x10Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<br><br><br>
 
 <a href="20241103_001.JPG" target="_blank"><img src="20241103_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_002.JPG" target="_blank"><img src="20241103_002.JPG" alt="サンプル画像" width="900" /></a>
