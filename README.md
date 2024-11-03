@@ -138,6 +138,7 @@ p.note { display: none; }
 <a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">モンキーのリアフェンダーがタイヤと当たってたので外しました！</span></h2>
 <a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20241103_06.jpg" target="_blank"><img src="20241103_06.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
 
