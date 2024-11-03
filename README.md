@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/2024Oct23_85Kenyuukai/20241103_000.png) center/cover no-repeat;
+background:url(https://torokoid.github.io/20241103_Ibaraki_bike/20241103_000.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
