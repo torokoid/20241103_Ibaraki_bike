@@ -142,7 +142,7 @@ p.note { display: none; }
 
 <br><br><br>
 
-<h2><span class="yellow">動画です。1、２本目はLINE共有動画、３、４本目はGoProで撮ったAppleLineのほぼ全域走行動画！</span></h2>
+<h2><span class="yellow">動画です。<br>1、２本目はLINE共有動画、<br>３、４本目はGoProで撮ったAppleLineのほぼ全域走行動画！</span></h2>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sgq-xMSNCbo?si=XXyADHd2-dXv7s1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
