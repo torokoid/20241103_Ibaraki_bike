@@ -131,7 +131,7 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">安住神社に集合して、ツーリングがスタート！</span></h2>
+<h2><span class="yellow">安住神社に集合して、ツーリング、スタート！</span></h2>
 <a href="20241103_01.jpg" target="_blank"><img src="20241103_01.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_02.jpg" target="_blank"><img src="20241103_02.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_03.jpg" target="_blank"><img src="20241103_03.jpg" alt="サンプル画像" width="900" /></a>
