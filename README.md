@@ -136,6 +136,7 @@ p.note { display: none; }
 <a href="20241103_02.jpg" target="_blank"><img src="20241103_02.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_03.jpg" target="_blank"><img src="20241103_03.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">モンキーのリアフェンダーがタイヤと当たってたので外しました！</span></h2>
 <a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
@@ -158,7 +159,7 @@ p.note { display: none; }
 <a href="20241103_004.JPG" target="_blank"><img src="20241103_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_005.JPG" target="_blank"><img src="20241103_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_006.JPG" target="_blank"><img src="20241103_006.JPG" alt="サンプル画像" width="900" /></a>
-<!--<h2><span class="yellow">安住神社に集合して、ツーリングがスタート！</span></h2>
+<!--<h2><span class="yellow">道の駅のトイレが珍しい形でした！</span></h2>
 <a href="20241103_007.JPG" target="_blank"><img src="20241103_007.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20241103_008.JPG" target="_blank"><img src="20241103_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_009.JPG" target="_blank"><img src="20241103_009.JPG" alt="サンプル画像" width="900" /></a>
