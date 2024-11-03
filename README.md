@@ -173,6 +173,7 @@ p.note { display: none; }
 <a href="20241103_016.JPG" target="_blank"><img src="20241103_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_017.JPG" target="_blank"><img src="20241103_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_018.JPG" target="_blank"><img src="20241103_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">15食限定、唐揚げ定食は¥1,000！</span></h2>
 <a href="20241103_019.JPG" target="_blank"><img src="20241103_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_020.JPG" target="_blank"><img src="20241103_020.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_021.JPG" target="_blank"><img src="20241103_021.JPG" alt="サンプル画像" width="900" /></a>
