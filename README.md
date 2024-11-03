@@ -151,14 +151,15 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9kRn1tfFwx0?si=YTwMgYgPV-7x10Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <br><br><br>
-
+<h2><span class="yellow">羽田スマホ画像！</span></h2>
 <a href="20241103_001.JPG" target="_blank"><img src="20241103_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_002.JPG" target="_blank"><img src="20241103_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_003.JPG" target="_blank"><img src="20241103_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_004.JPG" target="_blank"><img src="20241103_004.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_005.JPG" target="_blank"><img src="20241103_005.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_006.JPG" target="_blank"><img src="20241103_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241103_007.JPG" target="_blank"><img src="20241103_007.JPG" alt="サンプル画像" width="900" /></a>
+<!--<h2><span class="yellow">安住神社に集合して、ツーリングがスタート！</span></h2>
+<a href="20241103_007.JPG" target="_blank"><img src="20241103_007.JPG" alt="サンプル画像" width="900" /></a>-->
 <a href="20241103_008.JPG" target="_blank"><img src="20241103_008.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_009.JPG" target="_blank"><img src="20241103_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_010.JPG" target="_blank"><img src="20241103_010.JPG" alt="サンプル画像" width="900" /></a>
