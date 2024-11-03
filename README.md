@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/2024Oct23_85Kenyuukai/20241023_068.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/2024Oct23_85Kenyuukai/20241103_000.png) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/03 、浜田さんツーリング for 茨城大子 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/03 、浜田さんツーリング for 茨城県大子 !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
 <!--
@@ -131,8 +131,38 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">有楽町駅から集合地点に向かいます！</span></h2>
+<h2><span class="yellow">安住神社に集合して、ツーリングがスタート！</span></h2>
+<a href="20241103_01.jpg" target="_blank"><img src="20241103_01.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20241103_02.jpg" target="_blank"><img src="20241103_02.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20241103_03.jpg" target="_blank"><img src="20241103_03.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
 
+
+
+
+<a href="20241103_001.JPG" target="_blank"><img src="20241103_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_002.JPG" target="_blank"><img src="20241103_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_003.JPG" target="_blank"><img src="20241103_003.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_004.JPG" target="_blank"><img src="20241103_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_005.JPG" target="_blank"><img src="20241103_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_006.JPG" target="_blank"><img src="20241103_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_007.JPG" target="_blank"><img src="20241103_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_008.JPG" target="_blank"><img src="20241103_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_009.JPG" target="_blank"><img src="20241103_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_010.JPG" target="_blank"><img src="20241103_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_011.JPG" target="_blank"><img src="20241103_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_012.JPG" target="_blank"><img src="20241103_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_013.JPG" target="_blank"><img src="20241103_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_014.JPG" target="_blank"><img src="20241103_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_015.JPG" target="_blank"><img src="20241103_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_016.JPG" target="_blank"><img src="20241103_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_017.JPG" target="_blank"><img src="20241103_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_018.JPG" target="_blank"><img src="20241103_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_019.JPG" target="_blank"><img src="20241103_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_020.JPG" target="_blank"><img src="20241103_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_021.JPG" target="_blank"><img src="20241103_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_022.JPG" target="_blank"><img src="20241103_022.JPG" alt="サンプル画像" width="900" /></a>
 
 
 
