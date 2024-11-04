@@ -138,6 +138,7 @@ p.note { display: none; }
 <a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">モンキーのリアフェンダーがタイヤと当たってたので外しました！</span></h2>
 <a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">渋谷さん共有画像！</span></h2>
 <a href="20241103_06.jpg" target="_blank"><img src="20241103_06.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
@@ -153,6 +154,21 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9kRn1tfFwx0?si=YTwMgYgPV-7x10Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <br><br><br>
+
+<h2><span class="yellow">佐久間さんから、全走行ルートが共有されました<br>（地図のクリックでGoogleMapsに飛びます）！</span></h2>
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=1BClC8dt4sMwzCFT_q-Vm9hURO3ZV_J0&ll=36.72751025050958%2C140.24307210917004&z=12
+" target="_blank"><img src="20241103_07.png" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">佐久間さん共有画像！</span></h2>
+<a href="20241103_023.JPG" target="_blank"><img src="20241103_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_024.JPG" target="_blank"><img src="20241103_024.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_025.JPG" target="_blank"><img src="20241103_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_026.JPG" target="_blank"><img src="20241103_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_027.JPG" target="_blank"><img src="20241103_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_028.JPG" target="_blank"><img src="20241103_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_029.JPG" target="_blank"><img src="20241103_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20241103_030.JPG" target="_blank"><img src="20241103_030.JPG" alt="サンプル画像" width="900" /></a>
+
+
 <h2><span class="yellow">羽田スマホ画像！</span></h2>
 <a href="20241103_001.JPG" target="_blank"><img src="20241103_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_002.JPG" target="_blank"><img src="20241103_002.JPG" alt="サンプル画像" width="900" /></a>
