@@ -197,7 +197,8 @@ p.note { display: none; }
 <a href="20241103_015.JPG" target="_blank"><img src="20241103_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_016.JPG" target="_blank"><img src="20241103_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_017.JPG" target="_blank"><img src="20241103_017.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20241103_018.JPG" target="_blank"><img src="20241103_018.JPG" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">画像↓のクリックでGoogleMapsに飛びます！</span></h2>
+<a href="https://www.google.com/maps/place/永福/@36.7905848,140.3635292,3a,29.1y,318.44h,88.02t/data=!3m7!1e1!3m5!1s29mzFYJ2HKqYHRNrbS_m3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.9789326359430959%26panoid%3D29mzFYJ2HKqYHRNrbS_m3w%26yaw%3D318.4368983480001!7i16384!8i8192!4m15!1m8!3m7!1s0x6018f252f0df60bb:0x1b15d8001944a3a5!2z44CSMTY4LTAwNjQg5p2x5Lqs6YO95p2J5Lim5Yy65rC456aP!3b1!8m2!3d35.673745!4d139.6413835!16s%2Fg%2F121z6kd2!3m5!1s0x6021bf442d5941b9:0xdc039fa4969d3aca!8m2!3d36.7909453!4d140.3630358!16s%2Fg%2F1th0m_w1!5m1!1e2?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241103_018.JPG" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">15食限定、唐揚げ定食は¥1,000！</span></h2>
 <a href="20241103_019.JPG" target="_blank"><img src="20241103_019.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20241103_020.JPG" target="_blank"><img src="20241103_020.JPG" alt="サンプル画像" width="900" /></a>
