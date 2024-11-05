@@ -159,7 +159,7 @@ p.note { display: none; }
 <a href="https://www.google.com/maps/d/u/0/viewer?mid=1BClC8dt4sMwzCFT_q-Vm9hURO3ZV_J0&ll=36.72751025050958%2C140.24307210917004&z=12
 " target="_blank"><img src="20241103_07.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"バイク用ナビの情報！</span></h2>
+<h2><span class="yellow">バイク用ナビの情報！</span></h2>
 <a href="10.jpg" target="_blank"><img src="10.jpg" alt="サンプル画像" width="900" /></a>
 <a href="11.jpg" target="_blank"><img src="11.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_08.png" target="_blank"><img src="20241103_08.png" alt="サンプル画像" width="900" /></a>
