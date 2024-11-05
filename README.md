@@ -163,7 +163,7 @@ p.note { display: none; }
 <a href="10.jpg" target="_blank"><img src="10.jpg" alt="サンプル画像" width="900" /></a>
 <a href="11.jpg" target="_blank"><img src="11.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_08.png" target="_blank"><img src="20241103_08.png" alt="サンプル画像" width="900" /></a>
-<a href="12.jpg" target="_blank"><img src="20241103_09.png" alt="サンプル画像" width="900" /></a>
+<a href="12.png" target="_blank"><img src="20241103_09.png" alt="サンプル画像" width="900" /></a>
 
 
 <h2><span class="yellow">佐久間さん共有画像！</span></h2>
