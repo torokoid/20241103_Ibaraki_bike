@@ -160,7 +160,7 @@ p.note { display: none; }
 " target="_blank"><img src="20241103_07.png" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
-<h2><span class="yellow">ツーリングの雰囲気が良くでている区間の動画です。<br>道の駅「みわ」から、アップルラインに至る区間<br>最初の動画、３本目の直前までのところ。<br>上記地図の２番目のAから３番目のAまでの間になります！</span></h2>
+<h2><span class="yellow">ツーリングの雰囲気が良くでている区間の動画です。<br>道の駅「みわ」から、アップルラインに至る区間<br>最初の動画、３本目の直前までのところ。<br>上記地図の２番目のAから３番目のAの中間までになります！</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XT4-F7jLOCU?si=0zYJxYelibRkgZTH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aa8E_1UnGew?si=Gm4fnnrG5gZUml4O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
