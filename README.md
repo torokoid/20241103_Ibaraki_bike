@@ -214,7 +214,7 @@ p.note { display: none; }
 <a href="20241103_022.JPG" target="_blank"><img src="20241103_022.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<h2><span class="yellow">ツーリング招集のLINE会話、消える前に記録します！</span></h2>
+<h2><span class="yellow">ツーリング招集のLINE会話、消える前に記録します！（15/Nov/2024）</span></h2>
 <a href="20241103_001.png" target="_blank"><img src="20241103_001.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_002.png" target="_blank"><img src="20241103_002.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_003.png" target="_blank"><img src="20241103_003.png" alt="サンプル画像" width="900" /></a>
