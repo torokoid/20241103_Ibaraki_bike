@@ -136,7 +136,7 @@ p.note { display: none; }
 <a href="20241103_02.jpg" target="_blank"><img src="20241103_02.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_03.jpg" target="_blank"><img src="20241103_03.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_04.jpg" target="_blank"><img src="20241103_04.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="yellow">モンキーのリアフェンダーがタイヤと当たってたので外しました！</span></h2>
+<h2><span class="yellow">モンキーのリアフェンダーがタイヤと当たってたので外しました！<br>佐久間さん撮影</span></h2>
 <a href="20241103_05.jpg" target="_blank"><img src="20241103_05.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="yellow">渋谷さん共有画像！</span></h2>
 <a href="20241103_06.jpg" target="_blank"><img src="20241103_06.jpg" alt="サンプル画像" width="900" /></a>
