@@ -230,7 +230,7 @@ p.note { display: none; }
 <a href="20241103_013.png" target="_blank"><img src="20241103_013.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_014.png" target="_blank"><img src="20241103_014.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_015.png" target="_blank"><img src="20241103_015.png" alt="サンプル画像" width="900" /></a>
-<a href="20241103_016.png" target="_blank"><img src="20241103_016.png" alt="サンプル画像" width="900" /></a>
+<a href="https://torokoid.github.io/2024Oct23_85Kenyuukai/" target="_blank"><img src="20241103_016.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_017.png" target="_blank"><img src="20241103_017.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_018.png" target="_blank"><img src="20241103_018.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_019.png" target="_blank"><img src="20241103_019.png" alt="サンプル画像" width="900" /></a>
