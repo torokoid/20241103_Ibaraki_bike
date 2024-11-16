@@ -242,7 +242,7 @@ p.note { display: none; }
 <a href="20241103_025.png" target="_blank"><img src="20241103_025.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_026.png" target="_blank"><img src="20241103_026.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_027.png" target="_blank"><img src="20241103_027.png" alt="サンプル画像" width="900" /></a>
-<a href="20241103_028.png" target="_blank"><img src="20241103_028.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=1BClC8dt4sMwzCFT_q-Vm9hURO3ZV_J0&ll=36.71606106282555%2C140.198305&z=11" target="_blank"><img src="20241103_028.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_029.png" target="_blank"><img src="20241103_029.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_030.png" target="_blank"><img src="20241103_030.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_031.png" target="_blank"><img src="20241103_031.png" alt="サンプル画像" width="900" /></a>
