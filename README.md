@@ -237,7 +237,7 @@ p.note { display: none; }
 <a href="20241103_020.png" target="_blank"><img src="20241103_020.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_021.png" target="_blank"><img src="20241103_021.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_022.png" target="_blank"><img src="20241103_022.png" alt="サンプル画像" width="900" /></a>
-<a href="20241103_023.png" target="_blank"><img src="20241103_023.png" alt="サンプル画像" width="900" /></a>
+<a href="https://www.google.com/maps/dir/〒319-2603+茨城県常陸大宮市鷲子２７２+道の駅+みわ/栃木県高根沢町上高根沢２４２５+安住神社+バイク神社駐車場/@36.6363037,140.0850932,12z/data=!4m29!4m28!1m20!1m1!1s0x6021ebcc19aae757:0x32a530940f215efd!2m2!1d140.2800036!2d36.6558574!3m4!1m2!1d140.2695838!2d36.6172713!3s0x6021ec00ded2091b:0xd0b4686de2e2f5fe!3m4!1m2!1d140.2000336!2d36.6481445!3s0x6021e812195297e3:0xcbd8a35910742af1!3m4!1m2!1d140.1733576!2d36.6321872!3s0x6021e7dcc9d7a233:0x84f7ef20b0eaa2ef!1m5!1m1!1s0x6021e1e699bffd79:0x5c7d985c1a9a732b!2m2!1d140.0291432!2d36.591044!3e0!5m1!1e2?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D" target="_blank"><img src="20241103_023.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_024.png" target="_blank"><img src="20241103_024.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_025.png" target="_blank"><img src="20241103_025.png" alt="サンプル画像" width="900" /></a>
 <a href="20241103_026.png" target="_blank"><img src="20241103_026.png" alt="サンプル画像" width="900" /></a>
