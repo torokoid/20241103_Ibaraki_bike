@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/03 、浜田さんツーリング for 茨城県大子 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/04/05 、浜田さんツーリング for お花見コース、背景は2024/11/03のもの !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
 <!--
@@ -129,8 +129,83 @@ p.note { display: none; }
 -->
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<!--ここから下が、本体部分-->
+<h2><span class="yellow">ツーリング、スタート画像の順番は適当です！</span></h2>
+<a href="20250405_47.JPG" target="_blank"><img src="20250405_47.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_46.JPG" target="_blank"><img src="20250405_46.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_45.JPG" target="_blank"><img src="20250405_45.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_44.JPG" target="_blank"><img src="20250405_44.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_43.JPG" target="_blank"><img src="20250405_43.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_42.JPG" target="_blank"><img src="20250405_42.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_41.JPG" target="_blank"><img src="20250405_41.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_40.JPG" target="_blank"><img src="20250405_40.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_39.JPG" target="_blank"><img src="20250405_39.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_38.JPG" target="_blank"><img src="20250405_38.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_37.JPG" target="_blank"><img src="20250405_37.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_36.JPG" target="_blank"><img src="20250405_36.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_35.JPG" target="_blank"><img src="20250405_35.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_34.JPG" target="_blank"><img src="20250405_34.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_33.JPG" target="_blank"><img src="20250405_33.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_32.JPG" target="_blank"><img src="20250405_32.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_31.JPG" target="_blank"><img src="20250405_31.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_30.JPG" target="_blank"><img src="20250405_30.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_29.JPG" target="_blank"><img src="20250405_29.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_28.JPG" target="_blank"><img src="20250405_28.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_27.JPG" target="_blank"><img src="20250405_27.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_26.JPG" target="_blank"><img src="20250405_26.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_25.JPG" target="_blank"><img src="20250405_25.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_24.JPG" target="_blank"><img src="20250405_24.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_23.JPG" target="_blank"><img src="20250405_23.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_22.JPG" target="_blank"><img src="20250405_22.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_21.JPG" target="_blank"><img src="20250405_21.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_20.JPG" target="_blank"><img src="20250405_20.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_19.JPG" target="_blank"><img src="20250405_19.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_18.JPG" target="_blank"><img src="20250405_18.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_17.JPG" target="_blank"><img src="20250405_17.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_16.JPG" target="_blank"><img src="20250405_16.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_15.JPG" target="_blank"><img src="20250405_15.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_14.JPG" target="_blank"><img src="20250405_14.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_13.JPG" target="_blank"><img src="20250405_13.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_12.JPG" target="_blank"><img src="20250405_12.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_11.JPG" target="_blank"><img src="20250405_11.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_10.JPG" target="_blank"><img src="20250405_10.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_9.JPG" target="_blank"><img src="20250405_9.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_8.JPG" target="_blank"><img src="20250405_8.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_7.JPG" target="_blank"><img src="20250405_7.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_6.JPG" target="_blank"><img src="20250405_6.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_5.JPG" target="_blank"><img src="20250405_5.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_4.JPG" target="_blank"><img src="20250405_4.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_3.JPG" target="_blank"><img src="20250405_3.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_2.JPG" target="_blank"><img src="20250405_2.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250405_1.JPG" target="_blank"><img src="20250405_1.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">以下、LINE会話</span></h2>
+<a href="20250405_48.png" target="_blank"><img src="20250405_48.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_49.png" target="_blank"><img src="20250405_49.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_50.png" target="_blank"><img src="20250405_50.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_51.png" target="_blank"><img src="20250405_51.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_52.png" target="_blank"><img src="20250405_52.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_53.png" target="_blank"><img src="20250405_53.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_54.png" target="_blank"><img src="20250405_54.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_55.png" target="_blank"><img src="20250405_55.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_56.png" target="_blank"><img src="20250405_56.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_57.png" target="_blank"><img src="20250405_57.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_58.png" target="_blank"><img src="20250405_58.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_59.png" target="_blank"><img src="20250405_59.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_60.png" target="_blank"><img src="20250405_60.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_61.png" target="_blank"><img src="20250405_61.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_62.png" target="_blank"><img src="20250405_62.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_63.png" target="_blank"><img src="20250405_63.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_64.png" target="_blank"><img src="20250405_64.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_65.png" target="_blank"><img src="20250405_65.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_66.png" target="_blank"><img src="20250405_66.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_67.png" target="_blank"><img src="20250405_67.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_68.png" target="_blank"><img src="20250405_68.png" alt="サンプル画像" width="900" /></a>
+<a href="20250405_69.png" target="_blank"><img src="20250405_69.png" alt="サンプル画像" width="900" /></a>
+
+
+<!--ここから下が、本体部分-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2024/11/03 、浜田さんツーリング for 茨城県大子 !!!</marquee></span></h1>
+<br>
 <h2><span class="yellow">安住神社に集合して、ツーリング、スタート！</span></h2>
 <a href="20241103_01.jpg" target="_blank"><img src="20241103_01.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20241103_02.jpg" target="_blank"><img src="20241103_02.jpg" alt="サンプル画像" width="900" /></a>
