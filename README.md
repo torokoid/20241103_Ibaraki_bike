@@ -194,7 +194,9 @@ p.note { display: none; }
 <a href="20250405_58.png" target="_blank"><img src="20250405_58.png" alt="サンプル画像" width="900" /></a>
 <a href="20250405_59.png" target="_blank"><img src="20250405_59.png" alt="サンプル画像" width="900" /></a>
 <a href="20250405_60.png" target="_blank"><img src="20250405_60.png" alt="サンプル画像" width="900" /></a>
+<!--
 <a href="20250405_61.png" target="_blank"><img src="20250405_61.png" alt="サンプル画像" width="900" /></a>
+-->
 <a href="20250405_62.png" target="_blank"><img src="20250405_62.png" alt="サンプル画像" width="900" /></a>
 <a href="20250405_63.png" target="_blank"><img src="20250405_63.png" alt="サンプル画像" width="900" /></a>
 <a href="20250405_64.png" target="_blank"><img src="20250405_64.png" alt="サンプル画像" width="900" /></a>
