@@ -119,6 +119,9 @@ p.note { display: none; }
 <p align="left"> <img src="QR_bike.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/11/08 、浜田さんツーリング !!!</marquee></span></h1>
 
@@ -178,6 +181,14 @@ p.note { display: none; }
 <!--
 <iframe src="https://www.google.com/maps/d/embed?mid=1NnsJWeCm6yC1vh2B7h1wGD49JCw4Lhc&ehbc=2E312F" width="640" height="480"></iframe>
 -->
+<h2><span class="yellow">ここから追記分</span></h2>
+<a href="20251108_148.JPG" target="_blank"><img src="20251108_148.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_149.JPG" target="_blank"><img src="20251108_149.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_150.JPG" target="_blank"><img src="20251108_150.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_151.JPG" target="_blank"><img src="20251108_151.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_152.JPG" target="_blank"><img src="20251108_152.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_153.JPG" target="_blank"><img src="20251108_153.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--流れ文字の挿入例-->
