@@ -170,6 +170,9 @@ p.note { display: none; }
 <a href="20251108_146.JPG" target="_blank"><img src="20251108_146.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251108_147.JPG" target="_blank"><img src="20251108_147.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">コース図、クリックでGoogleMapsに飛びます↓</span></h2>
+<a href="https://www.google.com/maps/d/viewer?mid=1NnsJWeCm6yC1vh2B7h1wGD49JCw4Lhc&ll=36.92072545004282%2C139.70160500000003&z=10" target="_blank"><img src="20251108_001.png" alt="サンプル画像" class="responsive-media"></a>
+
 <br><br><br><br><br><br><br><br><br>
 
 <!--流れ文字の挿入例-->
