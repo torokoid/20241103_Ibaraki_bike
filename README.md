@@ -120,6 +120,59 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <!--流れ文字の挿入例-->
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/11/08 、浜田さんツーリング !!!</marquee></span></h1>
+
+<a href="20251108_101.JPG" target="_blank"><img src="20251108_101.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_102.JPG" target="_blank"><img src="20251108_102.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_103.JPG" target="_blank"><img src="20251108_103.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_104.JPG" target="_blank"><img src="20251108_104.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_105.JPG" target="_blank"><img src="20251108_105.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_106.JPG" target="_blank"><img src="20251108_106.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_107.JPG" target="_blank"><img src="20251108_107.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_108.JPG" target="_blank"><img src="20251108_108.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_109.JPG" target="_blank"><img src="20251108_109.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_110.JPG" target="_blank"><img src="20251108_110.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_111.JPG" target="_blank"><img src="20251108_111.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_112.JPG" target="_blank"><img src="20251108_112.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_113.JPG" target="_blank"><img src="20251108_113.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_114.JPG" target="_blank"><img src="20251108_114.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_115.JPG" target="_blank"><img src="20251108_115.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_116.JPG" target="_blank"><img src="20251108_116.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_117.JPG" target="_blank"><img src="20251108_117.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_118.JPG" target="_blank"><img src="20251108_118.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_119.JPG" target="_blank"><img src="20251108_119.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_120.JPG" target="_blank"><img src="20251108_120.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_121.JPG" target="_blank"><img src="20251108_121.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_122.JPG" target="_blank"><img src="20251108_122.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_123.JPG" target="_blank"><img src="20251108_123.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_124.JPG" target="_blank"><img src="20251108_124.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_125.JPG" target="_blank"><img src="20251108_125.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_126.JPG" target="_blank"><img src="20251108_126.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_127.JPG" target="_blank"><img src="20251108_127.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_128.JPG" target="_blank"><img src="20251108_128.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_129.JPG" target="_blank"><img src="20251108_129.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_130.JPG" target="_blank"><img src="20251108_130.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_131.JPG" target="_blank"><img src="20251108_131.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_132.JPG" target="_blank"><img src="20251108_132.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_133.JPG" target="_blank"><img src="20251108_133.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_134.JPG" target="_blank"><img src="20251108_134.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_135.JPG" target="_blank"><img src="20251108_135.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_136.JPG" target="_blank"><img src="20251108_136.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_137.JPG" target="_blank"><img src="20251108_137.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_138.JPG" target="_blank"><img src="20251108_138.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_139.JPG" target="_blank"><img src="20251108_139.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_140.JPG" target="_blank"><img src="20251108_140.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_141.JPG" target="_blank"><img src="20251108_141.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_142.JPG" target="_blank"><img src="20251108_142.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_143.JPG" target="_blank"><img src="20251108_143.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_144.JPG" target="_blank"><img src="20251108_144.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_145.JPG" target="_blank"><img src="20251108_145.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_146.JPG" target="_blank"><img src="20251108_146.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251108_147.JPG" target="_blank"><img src="20251108_147.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<br><br><br><br><br><br><br><br><br>
+
+<!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="left">!!! 2025/04/05 、浜田さんツーリング for お花見コース !!!</marquee></span></h1>
 
 <!--上段にパンクズリストを入れる時の例-->
