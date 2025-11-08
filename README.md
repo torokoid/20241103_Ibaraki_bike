@@ -173,9 +173,11 @@ p.note { display: none; }
 <h2><span class="yellow">コース図</span></h2>
 <a href="20251108_001.png" target="_blank"><img src="20251108_001.png" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">コース図、元図の純粋表示（タイネットからの貼り付けテスト）</span></h2>
+<h2><span class="yellow">コース図、元図の純粋表示（タイネットからの貼り付けテスト,失敗かも？）</span></h2>
+<iframe src="https://www.google.com/maps/d/embed?mid=1NnsJWeCm6yC1vh2B7h1wGD49JCw4Lhc&ehbc=2E312F" width="320" height="240"></iframe>
+<!--
 <iframe src="https://www.google.com/maps/d/embed?mid=1NnsJWeCm6yC1vh2B7h1wGD49JCw4Lhc&ehbc=2E312F" width="640" height="480"></iframe>
-
+-->
 <br><br><br><br><br><br><br><br><br>
 
 <!--流れ文字の挿入例-->
