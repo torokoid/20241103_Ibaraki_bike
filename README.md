@@ -190,7 +190,7 @@ p.note { display: none; }
 <a href="20251108_152.JPG" target="_blank"><img src="20251108_152.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251108_153.JPG" target="_blank"><img src="20251108_153.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ツーリング後に喜連川の花火動画が共有されましたのでリンク貼ります。<br>画像クリックで動画再生します↓</span></h2>
+<h2><span class="yellow">ツーリング後にヒトミさんより、喜連川の花火動画が共有されましたのでリンク貼ります。<br>画像クリックで動画再生します↓</span></h2>
 <a href="https://youtube.com/shorts/43m81XEs_tM?feature=share" target="_blank"><img src="20251108_001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <br><br><br><br><br><br><br><br><br>
